@@ -1,0 +1,2 @@
+# COVID-19-Hospital-Management-system
+Create a COVID-19 patients management and tracking web application for a Hospital - The user/admin will enter name, address, current COVID-19 symptoms, contact details, Health details and will assign a bed to the respective patient - Only the management can insert and modify patient data - Create a dashboard for hospital management where they could see status of recovered, admitted, deceased patients and bed availability
